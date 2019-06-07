@@ -1,0 +1,6 @@
+﻿  Source.cpp
+a:\college of dupage\rpg\rpg\source.cpp(45): warning C4018: '<': signed/unsigned mismatch
+a:\college of dupage\rpg\rpg\source.cpp(102): warning C4101: 'choice': unreferenced local variable
+a:\college of dupage\rpg\rpg\source.cpp(152): warning C4018: '>=': signed/unsigned mismatch
+  RPG.vcxproj -> A:\College of Dupage\RPG\Debug\RPG.exe
+  RPG.vcxproj -> A:\College of Dupage\RPG\Debug\RPG.pdb (Full PDB)
